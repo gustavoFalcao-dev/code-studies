@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 
 test.py
+main
