@@ -5,9 +5,7 @@
 
 
 int main() {
-    int answer1;
-    int answer2;
-    int answerQst;
+    int answer1, answer2, answerQst;
     std::cout << "Type the first number: ";
     std::cin >> answer1;
     std::cout << "Type the second number: ";
