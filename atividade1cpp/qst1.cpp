@@ -44,7 +44,8 @@ with the two numbers typed previously
 2 - Sub
 3 - Mult
 4 - Div
-5 - Res div)";
+5 - Res div
+Answer: )";
     int opr;
     std::cin >> opr;
     using funcPtr = int(*)(int, int);
