@@ -2,6 +2,6 @@
 #include "questions.h"
 
 
-int qst4(int num1, int num2) {
+int qst4() {
     return 0;
 }
